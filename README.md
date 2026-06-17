@@ -79,6 +79,9 @@ This report presents insights from Facebook performance data using key pivot tab
 - The brand needs to shift focus to organic strategies for sustainable growth.
 - Relying solely on paid reach is not sustainable long-term.
 
+**Dashboard:**
+https://github.com/VidyaVGeetha/Facebook-Performance-Analysis/blob/main/facebook.png?raw=true
+
 ## Conclusion
 - **2024:** A boom year with successful marketing execution.
 - **2025:** A sharp decline signals a need for innovation.
