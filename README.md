@@ -80,7 +80,7 @@ This report presents insights from Facebook performance data using key pivot tab
 - Relying solely on paid reach is not sustainable long-term.
 
 **Dashboard:**
-https://github.com/VidyaVGeetha/Facebook-Performance-Analysis/blob/main/facebook.png?raw=true
+<img width="1135" height="503" alt="image" src="https://github.com/user-attachments/assets/4b15fe9e-4034-4fe5-8337-84539872c04a" />
 
 ## Conclusion
 - **2024:** A boom year with successful marketing execution.
